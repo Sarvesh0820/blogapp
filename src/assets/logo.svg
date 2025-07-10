@@ -19,8 +19,8 @@
   </g>
   
   <!-- BLOG text -->
-  <text x="220" y="110" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="#2C2C2C">BLOG</text>
+  <text x="220" y="110" font-family="Arial, sans-serif" font-size="64" font-weight="bold" fill="white">BLOG</text>
   
   <!-- APP text -->
-  <text x="220" y="155" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="#2C2C2C">APP</text>
+  <text x="220" y="155" font-family="Arial, sans-serif" font-size="42" font-weight="bold" fill="white">APP</text>
 </svg>
