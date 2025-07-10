@@ -1,8 +1,9 @@
 import React from 'react'
-import logo from "../../public/logo.png"
+import {logo} from "../assets/assets"
+
 const Logo = (width = "100px") => {
   return (
-    <div>{logo}</div>
+    <img src={logo} alt="Logo" />
   )
 }
 export default Logo;
