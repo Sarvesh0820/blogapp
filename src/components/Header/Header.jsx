@@ -38,9 +38,9 @@ const Header = () => {
     <header className='py-3 shadow bg-gray-500'>
       <Container>
         <nav className='flex'>
-          <div className='mr-4 w-5'>
+          <div className='mr-4'>
             <Link to='/'>
-              <Logo/>
+              <Logo className="w-24 h-12 md:w-32 md:h-16" />
             </Link>
           </div>
           <ul className='flex ml-auto'>
