@@ -1,0 +1,26 @@
+<svg width="400" height="200" viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Orange speech bubble with pen nib icon -->
+  <g>
+    <!-- Speech bubble shape -->
+    <path d="M 60 40 L 180 40 Q 200 40 200 60 L 200 100 Q 200 120 180 120 L 100 120 L 80 140 L 90 120 L 80 120 Q 60 120 60 100 L 60 60 Q 60 40 80 40 Z" fill="#FF6B35" stroke="none"/>
+    
+    <!-- Text lines in speech bubble -->
+    <rect x="80" y="55" width="100" height="8" rx="4" fill="white"/>
+    <rect x="80" y="70" width="100" height="8" rx="4" fill="white"/>
+    <rect x="80" y="85" width="100" height="8" rx="4" fill="white"/>
+    
+    <!-- Pen nib icon -->
+    <g transform="translate(120, 95)">
+      <!-- Pen nib outline -->
+      <path d="M -15 0 L -10 -8 L 10 -8 L 15 0 L 10 15 L 5 12 L 0 20 L -5 12 L -10 15 Z" fill="white"/>
+      <!-- Pen nib tip -->
+      <circle cx="0" cy="5" r="3" fill="#FF6B35"/>
+    </g>
+  </g>
+  
+  <!-- BLOG text -->
+  <text x="220" y="120" font-family="Arial, sans-serif" font-size="72" font-weight="bold" fill="#2C2C2C">BLOG</text>
+  
+  <!-- APP text -->
+  <text x="220" y="165" font-family="Arial, sans-serif" font-size="48" font-weight="bold" fill="#2C2C2C">APP</text>
+</svg>
